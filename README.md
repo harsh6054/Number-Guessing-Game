@@ -23,10 +23,6 @@ The user selects a **custom range of numbers**, and the application generates a 
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## ▶️ How to Run the Project
 1. Ensure Python 3 is installed on your system.
 2. Save the Python file as:
@@ -59,10 +55,3 @@ The user selects a **custom range of numbers**, and the application generates a 
 
 ---
 
-## 👨‍💻 Author
-Harsh Patil
-
----
-
-## 📄 License
-This project is open-source and intended for educational purposes.
