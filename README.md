@@ -3,13 +3,11 @@
 ## 📌 Project Description
 This project is a **Number Guessing Game** developed using **Python and Tkinter**.  
 The user selects a **custom range of numbers**, and the application generates a random number within that range. The user keeps guessing until the correct number is found.
-
 ---
 ## 🛠️ Technologies Used
 - Python 3
 - Tkinter (GUI Library)
 - Random Module
-
 ---
 ## 🚀 Features
 - User-defined number range (Start & End)
@@ -18,7 +16,6 @@ The user selects a **custom range of numbers**, and the application generates a 
 - Feedback for each guess (Too High / Too Low)
 - Attempt counter
 - Input validation and error handling
-
 ---
 ## ▶️ How to Run the Project
 1. Ensure Python 3 is installed on your system.
